@@ -18,7 +18,7 @@ Dependencies:
 - "react-transition-group"
 - "uuid"
 
-* These are some screenshots
+* These are some screenshots || visit https://flag-color-palette.herokuapp.com/
 
 ![Home view](https://i.ibb.co/LC3gcRW/home.png)
 ![Palette view](https://i.ibb.co/dGthJC9/palette.png)
