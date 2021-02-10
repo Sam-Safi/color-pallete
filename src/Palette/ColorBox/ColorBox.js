@@ -1,7 +1,7 @@
-import React, { Component } from "./node_modules/react";
-import { CopyToClipboard } from "./node_modules/react-copy-to-clipboard";
-import classNames from "./node_modules/classnames";
-import { withStyles } from "./node_modules/@material-ui/styles";
+import React, { Component } from "react";
+import { CopyToClipboard } from "react-copy-to-clipboard";
+import classNames from "classnames";
+import { withStyles } from "@material-ui/styles";
 
 import styles from "../../Styles/ColorBoxStyles";
 

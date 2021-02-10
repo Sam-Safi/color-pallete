@@ -1,6 +1,6 @@
-import React, { Component } from "./node_modules/react";
-import { withStyles } from "./node_modules/@material-ui/styles";
-import uuid from "./node_modules/uuid/v4";
+import React, { Component } from "react";
+import { withStyles } from "@material-ui/styles";
+import uuid from "uuid/dist/v4";
 
 import ColorBox from "./ColorBox/ColorBox";
 import Navbar from "../Navbar/Navbar";
